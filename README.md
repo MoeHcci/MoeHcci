@@ -16,7 +16,7 @@ Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, & <b>H
 </li>
 
 <li>
-Fun fact about me: I love working out, 3D printing, & camping
+Fun facts about me: I love working out, 3D printing, & camping
 </ul>
 
 <h2>You can find me at:</h2>
