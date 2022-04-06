@@ -12,11 +12,11 @@
 </li>
 
 <li>
-Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, & <b>CSS</b>, <b>Bootstrap</b>, & <b>HTML</b>
+Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, & <b>HTML</b>
 </li>
 
 <li>
-Fun facts about me: I love working out, 3D printing, & camping
+Fun facts about me: I love working out, 3D printing, & camping  
 </ul>
 
 <h2>You can find me at:</h2>
