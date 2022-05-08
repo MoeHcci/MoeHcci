@@ -8,11 +8,11 @@
 </li>
 
 <li>
-  I am currently learning: <b>JS</b>, <b>jQuery</b>, <b>Node</b>, <b>MangoDB</b>,and <b>React</b>
+  I am currently learning: <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b>, <b>MangoDB</b>,and <b>React</b>
 </li>
 
 <li>
-Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, & <b>HTML</b>
+Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, &  <b>JS</b>
 </li>
 
 <li>
