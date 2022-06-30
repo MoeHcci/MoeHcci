@@ -8,7 +8,7 @@
 </li>
 
 <li>
-  I am currently working on: A Dice Game Webpage
+  I am currently working on: Imporving my JS & DOM skills
 </li>
 
   <li>
