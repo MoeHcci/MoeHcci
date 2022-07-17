@@ -6,7 +6,7 @@
 
 
 <li>
-  I am currently working on: Imporving my JS & DOM skills. Also, I am building an interactive webpage
+  I am currently working on: Imporving my <b>JS</b> & <b>The Document Object (DOM) </b> skills. Also, I am building an interactive webpage
 </li>
 
   <li>
