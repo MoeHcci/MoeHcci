@@ -3,12 +3,10 @@
 <h2>Few pointers about me &#128512</h2>
 
 <ul>
-<li>
-  I am currently working on imporoving my web dev skills 
-</li>
+
 
 <li>
-  I am currently working on: Imporving my JS & DOM skills
+  I am currently working on: Imporving my JS & DOM skills. Also, I am building an interactive webpage
 </li>
 
   <li>
