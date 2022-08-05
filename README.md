@@ -6,11 +6,11 @@
 
 
 <li>
-  I am currently working on: Imporving my <b>JS</b> & <b>The Document Object (DOM) </b> skills. Also, I am building an interactive webpage
+  I am currently working on building an interactive webpage that is able to produce sounds based on clicking buttons & typeing on the keyboard 
 </li>
 
   <li>
-  Soon I will be: learning <b>jQuery</b>, <b>Node</b>, <b>MangoDB</b>,and <b>React</b>
+  Soon I will be: learning <b>jQuery</b>, <b>Node</b>, <b>Express-Node</b>,<b>Building APIs</b>, <b>EJS</b>, <b>MangoDB</b>, <b>Mongoose</b>, <b>web Authentication & Security</b> and <b>React</b>
 </li>
   
 <li>
