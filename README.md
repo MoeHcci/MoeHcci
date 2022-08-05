@@ -10,7 +10,7 @@
 </li>
 
   <li>
-  Soon I will be: learning <b>jQuery</b>, <b>Node</b>, <b>Express-Node</b>,<b>Building APIs</b>, <b>EJS</b>, <b>MangoDB</b>, <b>Mongoose</b>, <b>web Authentication & Security</b> and <b>React</b>
+  Soon I will be: learning <b>jQuery</b>, <b>Node</b>, <b>Express-Node</b>, <b>Building APIs</b>, <b>EJS</b>, <b>MangoDB</b>, <b>Mongoose</b>, <b>web Authentication & Security</b> and <b>React</b>
 </li>
   
 <li>
