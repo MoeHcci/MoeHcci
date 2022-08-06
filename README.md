@@ -6,7 +6,7 @@
 
 
 <li>
-  I am currently working on building an interactive webpage that is able to produce sounds based on clicking buttons & typeing on the keyboard 
+  I am currently working on building an interactive webpage that is able to produce unique sounds by either: clicking on each unique button or typing the written content of each unique button using the keyboard 
 </li>
 
   <li>
