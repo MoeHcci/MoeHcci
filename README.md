@@ -6,11 +6,11 @@
 
 
 <li>
-  I am currently working on building an interactive webpage that is able to produce unique sounds by either: clicking on each unique button or typing the written content of each unique button using the keyboard 
+  I am currently I am learning fundamentals and advanced techniques of <b>jQuery</b> and how to utilize <b>jQuery</b> in my web pages. 
 </li>
 
   <li>
-  Next I will be learning: <b>jQuery</b>, <b>Node.js</b>, <b>Express.js with Node.js</b>, <b>Working with APIs</b>, <b>EJS</b>, <b>MongoDB & Mongoose</b>, <b>Building RESTful APIs</b>, <b>Web Authentication & Security</b> and <b>React.js</b>
+  Next I will be learning: <b>Node.js</b>, <b>Express.js with Node.js</b>, <b>Working with APIs</b>, <b>EJS</b>, <b>MongoDB & Mongoose</b>, <b>Building RESTful APIs</b>, <b>Web Authentication & Security</b> and <b>React.js</b>
 </li>
   
 <li>
