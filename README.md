@@ -6,7 +6,7 @@
 
 
 <li>
-  I am currently I am learning fundamentals and advanced techniques of <b>jQuery</b> and how to utilize <b>jQuery</b> in my web pages. 
+  I am currently working on building a web application that utilizes <b>jQuery</b>.
 </li>
 
   <li>
@@ -14,7 +14,7 @@
 </li>
   
 <li>
-Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, & <b>The Document Object (DOM) </b>
+Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, & <b>jQuery</b>
 </li>
 
 <li>
