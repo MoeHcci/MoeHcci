@@ -6,11 +6,11 @@
 
 
 <li>
-  I am currently working on building a web application that utilizes <b>jQuery</b>.
+  I am currently learning backend development: fundamental of <b>Node.js</b> & <b>Express.js with Node.js</b>.
 </li>
 
   <li>
-  Next I will be learning: <b>Node.js</b>, <b>Express.js with Node.js</b>, <b>Working with APIs</b>, <b>EJS</b>, <b>MongoDB & Mongoose</b>, <b>Building RESTful APIs</b>, <b>Web Authentication & Security</b> and <b>React.js</b>
+  Next I will be learning: <b>Working with APIs</b>, <b>EJS</b>, <b>MongoDB & Mongoose</b>, <b>Building RESTful APIs</b>, <b>Web Authentication & Security</b> and <b>React.js</b>
 </li>
   
 <li>
