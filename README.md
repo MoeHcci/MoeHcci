@@ -6,7 +6,7 @@
 
 
 <li>
-  I am currently learning backend development: fundamental of <b>Node.js</b> & <b>Express.js with Node.js</b>.
+  I am currently learning backend development: fundamental of <b>Node</b> & <b>Express</b>.
 </li>
 
   <li>
