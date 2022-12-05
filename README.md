@@ -6,7 +6,7 @@
 
 
 <li>
-  I am currently learning backend development: fundamental of <b>Working with APIs</b>.
+  I am enjoy working with mechanical & software systems.
 </li>
 
   <li>
@@ -14,7 +14,7 @@
 </li>
   
 <li>
-Ask me about: <b>Python</b>, <b>PostgreSQL</b>, <b>Linux</b>, <b>git</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b> & <b>Express</b>
+I have experince with: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>PostgreSQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b> & <b>Express</b>, & <b> APIs </b>
 </li>
 
 <li>
