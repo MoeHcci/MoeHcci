@@ -8,13 +8,9 @@
 <li>
   I am enjoy working with mechanical & software systems.
 </li>
-
-  <li>
-  Next I will be learning: <b>Working with APIs</b>, <b>EJS</b>, <b>MongoDB & Mongoose</b>, <b>Building RESTful APIs</b>, <b>Web Authentication & Security</b> and <b>React.js</b>
-</li>
   
 <li>
-I have experince with: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>PostgreSQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b> & <b>Express</b>, & <b> APIs </b>
+I have experince with: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>PostgreSQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b> & <b>Express</b>, <b> APIs </b>, & <b> C/C++ </b>
 </li>
 
 <li>
