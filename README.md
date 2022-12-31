@@ -14,7 +14,7 @@ I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib)</b>, <b>
 </li>
 
   <li>
-I built various publicly available projects on github in: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>SQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b>, <b>Express</b>, <b> APIs </b>
+I built various publicly available projects on github in: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>SQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>,<b>jQuery</b>, <b>Node</b>, <b>Express</b>, <b> APIs</b>
 </li>
   
   
