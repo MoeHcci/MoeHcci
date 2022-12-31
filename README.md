@@ -6,13 +6,18 @@
 
 
 <li>
-  I am enjoy working with mechanical & software systems.
+  I am enjoy working with Mechanical & Software systems.
 </li>
   
 <li>
-I have experince with: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>PostgreSQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b>, <b>Express</b>, <b> APIs </b>, & <b> C/C++ </b>
+I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib)</b>, <b>git</b>, <b>SQL</b>
 </li>
 
+  <li>
+I built various publicly available projects on github in: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>SQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>, <b>The Document Object (DOM) </b>, <b>jQuery</b>, <b>Node</b>, <b>Express</b>, <b> APIs </b>
+</li>
+  
+  
 <li>
 Fun facts about me: I love working out, 3D printing, camping, coffee, and travelling. 
   </li>
