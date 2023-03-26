@@ -10,7 +10,7 @@
 </li>
   
 <li>
-I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib)</b>, <b>git</b>, <b>SQL</b>
+I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib, Scikit learn)</b>, <b>git</b>, <b>SQL</b>
 </li>
   
 <li>
