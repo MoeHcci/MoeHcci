@@ -14,7 +14,7 @@ I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib, Scikit l
 </li>
   
 <li>
-I really enjoy working with machine learning problems. Mainly NLP.  
+I really enjoy working with machine learning problems. 
   
   </li>
   
