@@ -6,7 +6,7 @@
 
 
 <li>
-  I am enjoy working with Mechanical & Software systems.
+  I enjoy working with Mechanical & Software systems.
 </li>
   
 <li>
