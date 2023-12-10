@@ -17,12 +17,7 @@ I mainly work with: <b>Linux</b>, <b>Python (Pandas, Numpy, Matplotlib, Scikit l
 I really enjoy working with machine learning problems. 
   
   </li>
-  
-  
-  <li>
-I built various publicly available projects on github in: <b>Linux</b>, <b>Python</b>, <b>git</b>, <b>SQL</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>HTML</b>, <b>JS</b>,<b>jQuery</b>, <b>Node</b>, <b>Express</b>, <b> APIs</b>
-</li>
-  
+ 
   
 <li>
 Fun facts about me: I love working out, 3D printing, camping, coffee, and travelling. 
